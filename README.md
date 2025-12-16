@@ -4,9 +4,9 @@
   
 ### Technical Product Manager specializing in AI, Automation & ERP Systems
   
-### Leading product development for AI-augmented industrial automation | MSc in AI & Robotics
+### Leading product for AI-augmented industrial automation | MSc in Mechatronics & Robotics
   
-### Building the future of intelligent manufacturing systems 🤖
+### Building the future of intelligent systems 🤖
   
 </div>
 
@@ -14,7 +14,7 @@
 
 ## 🎯 About Me
 
-- 🔭 Currently leading product development for **RFID-enabled automation systems** with AI integration
+- 🔭 Currently leading product and enginnering for an **RFID-enabled B2B Automation Product**
 - 🧠 MSc in **Mechatronics & Robotics** with AI concentration at Ain Shams University
 - 🚀 Led 23-engineer team to **2nd place nationally** in autonomous driving competition
 - 💡 Leveraging **AI agents** for rapid product prototyping and validation
@@ -84,27 +84,17 @@ Implementing quantum kernel methods for classification. Exploring quantum featur
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Belal's GitHub stats](https://github-readme-stats.vercel.app/api?username=BelalBahr&show_icons=true&theme=radical&count_private=true)
-
-</div>
-
----
-
 ## 🎓 Education & Certifications
 
 **MSc in Mechatronics & Robotics Engineering** | Ain Shams University  
-*AI Concentration - Currently Pursuing*
+AI Concentration - *Currently Pursuing*
 
 **BEng in Mechatronics Engineering** | Cairo University  
 *GPA: 3.2/4.0 | 2nd place in Graduation Projects Competition*
 
-**Microsoft AI Product Manager Professional Certificate** - Dec 2025  
+**Microsoft AI Product Manager Professional Certificate** - Microsoft, Dec. 2025  
 **Professional Scrum Product Owner I (PSPO I)** - May 2025  
-**Business Strategy Specialization** - UVA Darden School of Business
+**Business Strategy Specialization** - UVA Darden School of Business, Feb.2024
 
 ---
 
@@ -120,7 +110,7 @@ Implementing quantum kernel methods for classification. Exploring quantum featur
 
 <div align="center">
   
-### 💬 "Building AI-powered products that solve real manufacturing challenges"
+### 💬 "Building AI-powered products that solve challenges"
   
 ![Profile Views](https://komarev.com/ghpvc/?username=BelalBahr&label=Profile%20views&color=0e75b6&style=flat)
 
