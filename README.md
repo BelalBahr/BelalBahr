@@ -83,7 +83,7 @@ Implementing quantum kernel methods for classification. Exploring quantum featur
 AI Concentration - *Currently Pursuing*
 
 **BEng in Mechatronics Engineering** | Cairo University  
-*GPA: 3.2/4.0 | 2nd place in Graduation Projects Competition*
+*2nd place in Graduation Projects Competition*
 
 **Microsoft AI Product Manager Professional Certificate** - Microsoft, Dec. 2025  
 **Professional Scrum Product Owner I (PSPO I)** - May 2025  
