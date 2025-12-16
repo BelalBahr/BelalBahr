@@ -16,7 +16,7 @@
 
 - 🔭 Currently leading product and enginnering for an **RFID-enabled B2B Automation Product**
 - 🧠 MSc in **Mechatronics & Robotics** with AI concentration at Ain Shams University
-- 🚀 Led 23-engineer team to **2nd place nationally** in autonomous driving competition
+- 🚀 Led 23-engineer team to **2nd place nationally** in Shell Eco-Marathon's Autonomous Driving Competetion
 - 💡 Leveraging **AI agents** for rapid product prototyping and validation
 - 🎓 **Microsoft AI Product Manager Professional Certificate** (Dec 2025)
 - 📱 Building **Makhraj** - AI-powered Tajweed learning app with speech recognition
@@ -62,13 +62,6 @@
 ---
 
 ## 🚀 Featured Projects
-
-### 🤖 Autonomous Driving System
-Led 23-engineer team to **2nd place nationally**. Designed full architecture for SLAM-based localization, sensor fusion (stereo cameras, 3D LiDAR, IMU), and real-time path planning using ROS. Integrated computer vision and ML models for object detection and autonomous navigation.
-
-**Tech:** Python, ROS, Computer Vision, SLAM, Sensor Fusion, Deep Learning
-
----
 
 ### 📱 Makhraj - AI Tajweed Learning App *(In Development)*
 Building an AI-powered speech recognition system for Arabic pronunciation correction focused on Quranic recitation. Implementing real-time phonetic feedback for Tajweed accuracy.
