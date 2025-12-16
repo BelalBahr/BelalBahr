@@ -4,7 +4,7 @@
   
 ### Technical Product Manager specializing in AI, Automation & ERP Systems
   
-### Leading product for AI-augmented industrial automation | MSc in Mechatronics & Robotics
+### Leading product for an AI-augmented B2B industrial automation | MSc in Mechatronics & Robotics
   
 ### Building the future of intelligent systems 🤖
   
