@@ -103,8 +103,6 @@ AI Concentration - *Currently Pursuing*
 
 <div align="center">
   
-### 💬 "Building AI-powered products that solve challenges"
+### 💬 "Building AI-powered products that solve real challenges"
   
-![Profile Views](https://komarev.com/ghpvc/?username=BelalBahr&label=Profile%20views&color=0e75b6&style=flat)
-
 </div>
