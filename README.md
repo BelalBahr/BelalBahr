@@ -59,7 +59,7 @@
 
 ## 🚀 Featured Projects
 
-### 📱 Makhraj - AI Tajweed Learning App *(In Development)*
+### 📱 AI Tajweed Learning App *(In Development)*
 Building an AI-powered speech recognition system for Arabic pronunciation correction focused on Quranic recitation. Implementing real-time phonetic feedback for Tajweed accuracy.
 
 **Tech:** Python, Speech Recognition, ML, Mobile Development
