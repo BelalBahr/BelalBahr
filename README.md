@@ -1,8 +1,4 @@
-# Hi, I'm Belal Bahr 👋
-
-<div align="center">
-  
-### Technical Product Manager specializing in AI, Automation & ERP Systems
+  ### Technical Product Manager specializing in AI, Automation & ERP Systems
   
 ### Leading product for an AI-augmented B2B industrial automation | MSc in Mechatronics & Robotics
   
