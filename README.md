@@ -15,7 +15,7 @@
 - 🚀 Led 23-engineer team to **2nd place nationally** in Shell Eco-Marathon's Autonomous Driving Competetion
 - 💡 Leveraging **AI agents** for rapid product prototyping and validation
 - 🎓 **Microsoft AI Product Manager Professional Certificate** (Dec 2025)
-- 📱 Building **Makhraj** - AI-powered Tajweed learning app with speech recognition
+- 📱 Building an AI-powered Tajweed learning app with speech recognition
 
 ---
 
