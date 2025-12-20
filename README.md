@@ -99,6 +99,6 @@ AI Concentration - *Currently Pursuing*
 
 <div align="center">
   
-### 💬 "Building AI-powered products that solve real challenges"
+### Building AI-powered products that solve real challenges.
   
 </div>
